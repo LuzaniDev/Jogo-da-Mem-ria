@@ -20,9 +20,10 @@
 - Se Divirta
 ---
 #### Explicação da Gameplay
+
 ##### 1. _Escolha os Pares Correspondentes até não Sobrar Emojis Escondidos_
 
 # Apresentação do game
-![]()
+![Apresentação Jogo da Memória.png](https://github.com/LuzaniDev/Jogo-da-Memoria/blob/main/apresenta%C3%A7%C3%A3o/Apresenta%C3%A7%C3%A3o%20Jogo%20da%20Mem%C3%B3ria.png)
 
 
